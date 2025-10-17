@@ -1,0 +1,115 @@
+{
+    "resources": [
+        {
+            "name": ".project.json"
+        },
+        {
+            "name": "index.html"
+        },
+        {
+            "name": "i18n/i18n.properties",
+            "raw": "i18n/i18n.properties"
+        },
+        {
+            "name": "controller/Home.controller.js"
+        },
+        {
+            "name": "controller/App.controller.js"
+        },
+        {
+            "name": "controller/BaseController.js"
+        },
+        {
+            "name": "libs/html2pdf.bundle.js"
+        },
+        {
+            "name": "model/models.js"
+        },
+        {
+            "name": "Component.js"
+        },
+        {
+            "name": "Component-preload.js",
+            "merged": true
+        },
+        {
+            "name": "resources.json",
+            "merged": true
+        },
+        {
+            "name": "manifest.json"
+        },
+        {
+            "name": "css/style.css"
+        },
+        {
+            "name": ".user.project.json"
+        },
+        {
+            "name": "view/App.view.xml"
+        },
+        {
+            "name": "view/dialogComponent/DialogQuarterYear.fragment.xml"
+        },
+        {
+            "name": "view/dialogComponent/DialogQuarter.fragment.xml"
+        },
+        {
+            "name": "view/dialogComponent/DialogCompanyCodeMaster.fragment.xml"
+        },
+        {
+            "name": "view/dialogComponent/DialogSupplierMaster.fragment.xml"
+        },
+        {
+            "name": "view/dialogComponent/DialogFiscalYear.fragment.xml"
+        },
+        {
+            "name": "view/fragments/Charts/ChartFragment1.fragment.xml"
+        },
+        {
+            "name": "view/fragments/Charts/ChartFragment3.fragment.xml"
+        },
+        {
+            "name": "view/fragments/Charts/ChartFragment2.fragment.xml"
+        },
+        {
+            "name": "view/fragments/Charts/ChartFragment7.fragment.xml"
+        },
+        {
+            "name": "view/fragments/Charts/ChartFragment6.fragment.xml"
+        },
+        {
+            "name": "view/fragments/Charts/ChartFragment8.fragment.xml"
+        },
+        {
+            "name": "view/fragments/Charts/ChartFragment4.fragment.xml"
+        },
+        {
+            "name": "view/fragments/Charts/ChartFragment5.fragment.xml"
+        },
+        {
+            "name": "view/fragments/supplierDueCharts/chartFragment1SupplierDue.fragment.xml"
+        },
+        {
+            "name": "view/fragments/supplierDueCharts/chartFragment2SupplierDue.fragment.xml"
+        },
+        {
+            "name": "view/fragments/supplierDueCharts/chartFragment3SupplierDue.fragment.xml"
+        },
+        {
+            "name": "view/fragments/supplierDueCharts/chartFragment4SupplierDue.fragment.xml"
+        },
+        {
+            "name": "view/fragments/supplierDueChartsQtrFy/chartFragment1SupplierDueQtrFy.fragment.xml"
+        },
+        {
+            "name": "view/fragments/supplierDueChartsQtrFy/chartFragment2SupplierDueQtrFy.fragment.xml"
+        },
+        {
+            "name": "view/Home.view.xml"
+        },
+        {
+            "name": "neo-app.json"
+        }
+    ]
+}
